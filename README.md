@@ -1,5 +1,5 @@
 # nextjs-boilerplate-typescript
-Next JS Boilerplate with Typescript
+Next JS Boilerplate with Typescript.
 
 ### Tools
 - Framework: `Next JS`
@@ -16,7 +16,7 @@ yarn
 # Development
 yarn dev 
 
-# https://localhost:3000
+# localhost:3000
 ```
 
 ```bash
@@ -24,7 +24,7 @@ yarn dev
 yarn build
 yarn start 
 
-# https://localhost:3000
+# localhost:3000
 ```
 
 ### Project Structure
